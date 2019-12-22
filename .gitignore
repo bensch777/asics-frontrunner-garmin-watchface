@@ -38,3 +38,6 @@
 .metadata/.plugins/org.eclipse.ui.intro/introstate
 .metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
 .metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+bin/ASICSFrontrunner-Watchface-settings.json
+bin/ASICSFrontrunner-Watchface.prg
+bin/ASICSFrontrunner-Watchface.prg.debug.xml
