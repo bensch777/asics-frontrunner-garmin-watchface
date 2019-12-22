@@ -1,0 +1,9 @@
+<layout id="WatchFace">
+	<bitmap id="background" x="0" y="0" filename="../drawables/asics-logo-fr230.png" />
+	
+    <label id="TimeLabel" x="center" y="20" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="DateLabel" x="32" y="135" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" />
+    <label id="StepsLabel" x="182" y="135" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+    <drawable id="BgFill" />
+
+</layout>
