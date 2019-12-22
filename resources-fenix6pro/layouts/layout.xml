@@ -1,0 +1,8 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <bitmap id="background" x="0" y="0" filename="../drawables/frontrunner-260x260.png" />
+    <label id="TimeLabel" x="center" y="21" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="DateLabel" x="41" y="165" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" />
+    <label id="StepsLabel" x="219" y="165" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+    <drawable id="BgFill" />
+</layout>

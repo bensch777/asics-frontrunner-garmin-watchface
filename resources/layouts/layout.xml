@@ -1,6 +1,6 @@
 <layout id="WatchFace">
     <drawable class="Background" />
-    <bitmap id="background" x="0" y="0" filename="../drawables/asics-logo.png" />
+    <bitmap id="background" x="0" y="0" filename="../drawables/frontrunner-240x240.png" />
     <label id="TimeLabel" x="center" y="20" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
     <label id="DateLabel" x="38" y="180" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" />
     <label id="StepsLabel" x="202" y="180" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
